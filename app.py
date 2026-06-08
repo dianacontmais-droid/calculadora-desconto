@@ -3,7 +3,7 @@ import streamlit as st
 # Configuração da página
 st.set_page_config(page_title="Calculadora de Desconto", page_icon="💰")
 
-st.title("💰 Calculadora de Desconto Dinâmica")
+st.title("💰 Calculadora de Desconto")
 st.write("Insira os valores abaixo para calcular o preço final.")
 
 # Campos onde o usuário vai digitar
